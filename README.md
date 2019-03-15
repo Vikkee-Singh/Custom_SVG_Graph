@@ -11,7 +11,7 @@
 
 ## Installation
 
-* `git clone git@github.com:https://github.com/Neha-takhi-cipl/BambuReact.git`
+* `git clone git@github.com:https://github.com/Vikkee-Singh/Custom_SVG_Graph.git`
 * cd ProjectName(by default BambuReact)
 * npm install
 * npm start
